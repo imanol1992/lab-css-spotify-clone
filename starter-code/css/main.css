@@ -6,3 +6,72 @@ Green: #00B172
 White: #FFF
 
 */
+h2,h3{
+    font-size: 2em;
+}
+
+.logo{
+    width: 150px;
+    height: auto;
+}
+.img-background { 
+    height:700px;
+    background-image: url("../images/landing.jpg");
+    background-size: cover;
+
+}
+
+.text-center {
+    text-align: center;
+    margin-top: auto;
+}
+
+
+.text-white{
+    color:white;
+}
+.flex-container{
+    display: flex;
+}
+
+
+.projects img{
+    width: 40%;
+}
+.colour{
+    background-color: #00B172;
+   
+}
+.column{
+        float: left;
+        width: 50%;
+      
+}
+.move{
+    margin-left:30px;
+    width:100%;
+}
+ 
+
+.head{
+    float:right;
+    margin-top:35px;
+    margin-right:43px;
+}
+.logo{
+    width:220px;
+    height:57;
+    margin-top:20px;
+    margin-left:43px;
+}
+nav{
+    height:100px;
+    background-color:white;
+    position:fixed;
+    width:100%;
+}
+a{
+    color:black;
+    text-decoration:none;
+    font-size:26px;
+}
